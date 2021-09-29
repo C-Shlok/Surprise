@@ -1,0 +1,18 @@
+body{
+    font-size: 75px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-variant: small-caps;
+    background-color: #4d4dff;
+    cursor: default;
+    text-align: center;
+    color: lightblue;
+}
+a{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 100px;
+}
+video{
+    size: 75px;
+}
